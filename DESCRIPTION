@@ -1,0 +1,13 @@
+Package: ggblush
+Type: Package
+Title: Create Personalized Color Palettes
+Version: 0.1.0
+Author: Gregory P. Way
+Maintainer: gregory.way@gmail.com
+Description:
+    Automatically generate color palettes using your favorite pictures.
+    ggblush can be used with ggplot2 to use customized colors when generating publication-ready figures.
+    Provide a filename or image url to extract beautiful colors.
+License: BSD-3-Clause
+Encoding: UTF-8
+LazyData: true
